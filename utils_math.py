@@ -1,6 +1,1 @@
-def add(a, b):
-    return a + b
-
-
-def subtract(a, b):
-    return a - b
+The complete new content of the file after applying the requested changes.
